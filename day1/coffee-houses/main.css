@@ -1,0 +1,19 @@
+header {
+   text-align: center;
+}
+
+.list {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    justify-content: space-around;
+}
+
+.shop {
+    width: 30%;
+    border: 1px dashed black;
+    
+    padding: 4px;
+    background-color: red;
+}

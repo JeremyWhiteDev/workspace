@@ -1,0 +1,25 @@
+#my-rep {
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+
+}
+.basic-information {
+    display: flex;
+}
+
+.committees {
+
+}
+
+.links {
+
+}

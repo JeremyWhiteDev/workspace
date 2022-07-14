@@ -1,0 +1,59 @@
+.flex_practice {
+    display: flex;
+    padding: 5%;
+    
+}
+
+.number {
+    padding: 10px;
+    border: 1px solid black;
+    width: 10%;
+    text-align: center;
+    margin: 1%;
+    box-shadow: 0 0 10px blue;
+    align-self: flex-start;
+    
+}
+
+.number:hover {
+    background-color: pink;
+    padding: 15px;
+    font-size: large;
+}
+
+.one {
+    order: 1;
+}
+
+.two {
+    order: 2;
+}
+
+.three {
+    order: 3;
+}
+
+.four {
+    order: 4;
+}
+
+.five {
+    order: 5;
+}
+
+.six {
+    order: 6;
+}
+
+.seven {
+    order: 7;
+}
+.eight {
+    order: 8;
+}
+.nine {
+    order: 9;
+}
+.ten {
+    order: 10;
+}
